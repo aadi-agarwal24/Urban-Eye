@@ -1,0 +1,6 @@
+path: c:/Users/admin/Desktop/urban/urbaneye/backend/dataset
+train: train/images
+val: valid/images
+
+nc: 1
+names: ['pothole']
